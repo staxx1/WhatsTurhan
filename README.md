@@ -1,10 +1,10 @@
 # Whatsapp-TurhanUserBot
-Python ile yazılmış bir whatsapp user bot daha fazlası için https://github.com/staxx1)
+Python ile yazılmış bir Whatsapp UserBot daha fazlası için https://github.com/staxx1)
 
 # :Uyarı:
 Ne yazık ki, whatsapp sunucularındaki bazı güncellemelerden sonra, botlar çok hızlı bir şekilde yasaklanıyor. Bazıları birkaç saat sürer.
 Whatsapp'ın açık bir protokolü yoktur, bu nedenle (https://github.com/staxx1/whatsturhan).
-Bu proje iyi çalıştı, gerçekten faydalı oldu ve sunucu güncellemesinden önceki botlar aylarca sorunsuz bir şekilde çalışabildi.
+Bu proje için iyi çalıştı, gerçekten faydalı oldu ve sunucu güncellemesinden önceki botlar aylarca sorunsuz bir şekilde çalışabildi.
 
 # Neler Yapılabilir?
 - Basit Komutlar:  
