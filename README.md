@@ -33,13 +33,15 @@ Ve daha fazlası...
 
 
 # Kurulum
-String: git clone https://github.com/staxx1/WhatsTurhan.git
-cd WhatsTurhan
+### Zor Yöntem
+```js
+git clone https://github.com/Quiec/WhatsAsena.git
+cd WhatsAsena
 npm i
 # Config.env oluşturun ve düzenleyin. #
 node bot.js
+
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/staxx1/whatsturhan)
  
-
 All product made by STAXX
 
