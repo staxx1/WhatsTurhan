@@ -33,6 +33,9 @@ Ve daha fazlası...
 
 
 # Kurulum
+### Basit Yöntem
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/staxx1/whatsturhan)
+
 ### Zor Yöntem
 ```js
 git clone https://github.com/Quiec/WhatsAsena.git
@@ -41,7 +44,6 @@ npm i
 # Config.env oluşturun ve düzenleyin. #
 node bot.js
 
-#[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/staxx1/whatsturhan)
- 
-All product made by STAXX
+
+
 
