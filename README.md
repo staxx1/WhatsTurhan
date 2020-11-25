@@ -1,4 +1,4 @@
-# whatsapp-TurhanUserBot
+# Whatsapp-TurhanUserBot
 Python ile yazılmış bir whatsapp user bot daha fazlası için https://github.com/staxx1)
 
 # :Uyarı:
