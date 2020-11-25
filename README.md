@@ -38,8 +38,8 @@ Ve daha fazlası...
 
 ### Zor Yöntem
 ```js
-git clone https://github.com/Quiec/WhatsAsena.git
-cd WhatsAsena
+git clone https://github.com/staxx1/WhatsTurhan.git
+cd WhatsTurhan
 npm i
 # Config.env oluşturun ve düzenleyin. #
 node bot.js
