@@ -33,6 +33,11 @@ Ve daha fazlası...
 
 
 # Kurulum
+String: git clone https://github.com/staxx1/WhatsTurhan.git
+cd WhatsTurhan
+npm i
+# Config.env oluşturun ve düzenleyin. #
+node bot.js
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/staxx1/whatsturhan)
  
 
